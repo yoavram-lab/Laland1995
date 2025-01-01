@@ -9,6 +9,7 @@ This is the repository for the manuscript:
 - `si.docx`: supplementary information
 - `notebooks/main.ipynb`: Jupyter notebook with main analysis of familal data
 - `notebooks/twins.ipynb`: Jupyter notebook with analysis of twin data.
+- `notebooks/estimation_accuracy.ipynb`: Jupyter notebook with analysis of estimation_accuracy.
 
 ## License
 
