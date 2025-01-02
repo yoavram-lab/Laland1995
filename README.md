@@ -1,6 +1,6 @@
 This is the repository for the manuscript:
 
-> Rony Karstadt$^#$, Chloe Shiff$^#$, Tomer Oron$^#$, Nadav Ben Nun, Yoav Ram (2025) _Revisiting Laland et al.’s Gene-Culture Model of Human Handedness_.
+> Rony Karstadt, Chloe Shiff, Tomer Oron, Nadav Ben Nun, Yoav Ram (2025) _Revisiting Laland et al.’s Gene-Culture Model of Human Handedness_.
 
 
 ## Repository structure
